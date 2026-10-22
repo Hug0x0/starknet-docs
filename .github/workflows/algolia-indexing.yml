@@ -22,7 +22,7 @@ jobs:
       - name: Setup Node.js 16.15.x
         uses: actions/setup-node@v3
         with:
-          node-version: '16.15.x'
+          node-version: '24.22.1'
 
       - name: Upload data to Algolia Index
         shell: bash
