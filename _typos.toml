@@ -8,3 +8,7 @@ check-file = true
 [default.extend-words]
 # Don't correct the word
 afe = "afe"
+
+# Cairo syntax and documentation placeholders are intentional.
+implicits = "implicits"
+replaceables = "replaceables"
